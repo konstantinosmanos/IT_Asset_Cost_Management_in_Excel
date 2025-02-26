@@ -138,7 +138,7 @@ This project successfully demonstrates **IT Asset Management using Excel**, show
 ✔️ **Formula-Based Analysis** – Using Excel functions to extract insights  
 ✔️ **Data Visualization** – Creating pivot tables & charts for cost & compliance tracking  
 
----
+
 
 ### **Limitations**  
 
@@ -146,7 +146,7 @@ This project successfully demonstrates **IT Asset Management using Excel**, show
 🔹 **Lack of Real Trends** – No seasonality, vendor-specific pricing, or market fluctuations.  
  
 
----
+
 
 ### **Future Improvements**  
 
