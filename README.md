@@ -131,7 +131,7 @@ To better **understand IT asset costs and compliance**, I created various **char
 
 ## Conclusion, Limitations & Future Improvements  
 
-### Conclusion  
+### **Conclusion**  
 
 This project successfully demonstrates **IT Asset Management using Excel**, showcasing:  
 ✔️ **Data Cleaning & Transformation** – Ensuring data integrity  
@@ -140,7 +140,7 @@ This project successfully demonstrates **IT Asset Management using Excel**, show
 
 ---
 
-### ⚠️ Limitations  
+### **Limitations**  
 
 🔹 **Simulated Data** – Since the dataset is randomly generated, it does not reflect **real-world business challenges**.  
 🔹 **Lack of Real Trends** – No seasonality, vendor-specific pricing, or market fluctuations.  
@@ -148,7 +148,7 @@ This project successfully demonstrates **IT Asset Management using Excel**, show
 
 ---
 
-### Future Improvements  
+### **Future Improvements**  
 
 ✔️ **Develop an Interactive Dashboard** – Use **Power BI** or **Tableau** to improve visual analysis.  
 ✔️ **Use Real-World Data** – Incorporate actual IT asset data for realistic insights.  
