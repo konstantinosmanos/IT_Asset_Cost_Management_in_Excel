@@ -50,7 +50,7 @@ The dataset consists of **100 IT assets** with key attributes like:
 
 ---
 
-## 🛠 Data Cleaning & Transformation  
+## Data Cleaning & Transformation  
 
 ### **1️⃣ Data Cleaning in Excel**
 To ensure **data integrity**, I performed:  
