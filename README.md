@@ -9,7 +9,7 @@ This project demonstrates **Excel data analysis skills** by managing and analyzi
 - **Advanced Excel Functions & Formulas** – **IF, COUNTIF, SUMIFS, AVERAGEIF**  
 - **Data Visualization** – Creating **Pivot Tables, Charts, and Insights**  
 
-🔹 **Goal:** Showcase **Excel proficiency**   
+🔹 **Goal:** Showcase **Excel proficiency** along with the ability to perform IT asset and cost management analysis, including data cleaning, cost tracking, compliance monitoring, and data visualization
 
 ---
 
