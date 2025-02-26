@@ -94,35 +94,35 @@ To better **understand IT asset costs and compliance**, I created various **char
 
 ---
 
-## 📈 Key Findings from Data Analysis  
+#### Key Findings from Data Analysis  
 
-📌 **1️⃣ Asset Distribution**  
+**1️⃣ Asset Distribution**  
 - **Databases (21%)** make up the largest asset category.  
 - **Laptops (11%)** and **Networking Equipment (13%)** are smaller but significant categories.  
 
 ![Asset Distribution by Type](images/Asset%20Distribution%20by%20Type.png)  
 
-📌 **2️⃣ Compliance Status of Assets**  
+**2️⃣ Compliance Status of Assets**  
 - **45% of assets are non-compliant** and might require intervention.  
 
 ![Non-Compliant vs. Compliant Assets](images/Non-Compliant%20vs.%20Compliant%20Assets.png)  
 
-📌 **3️⃣ Asset Lifecycle Status**  
+**3️⃣ Asset Lifecycle Status**  
 - **31% of assets are under maintenance**, while **27% are expired**.  
 
 ![Proportion of Asset Status](images/Proportion%20of%20Expired,%20Inactive,%20Active,%20and%20Under%20Maintenance%20assets.png)  
 
-📌 **4️⃣ Maintenance Cost Per Vendor**  
+**4️⃣ Maintenance Cost Per Vendor**  
 - **HP and Microsoft have the highest average maintenance costs**, while **Cisco has the lowest**.  
 
 ![Average Maintenance Cost](images/Average%20Maintenance%20Cost%20per%20Vendor.png)  
 
-📌 **5️⃣ Total Purchase Cost Per Asset Type**  
+**5️⃣ Total Purchase Cost Per Asset Type**  
 - **Database assets have the highest total purchase cost (~$102K).**  
 
 ![Total Purchase Cost per Asset Type](images/Total%20Purchase%20Cost%20per%20Asset%20Type.png)  
 
-📌 **6️⃣ Cost Breakdown by Vendor**  
+**6️⃣ Cost Breakdown by Vendor**  
 - AWS, Microsoft, and Oracle have the highest **overall IT costs**.  
 
 ![Vendor Costs](images/Vendors%20Costs.png)  
