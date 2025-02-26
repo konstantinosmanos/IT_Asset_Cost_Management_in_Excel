@@ -129,16 +129,33 @@ To better **understand IT asset costs and compliance**, I created various **char
 
 ---
 
-## 📌 Conclusion  
+## Conclusion, Limitations & Future Improvements  
 
-📢 **Key Takeaways:**  
-✔️ **Many IT assets are non-compliant** and require action.  
-✔️ **HP & Microsoft assets have high maintenance costs**, which may need cost optimization.  
-✔️ **Expired assets should be replaced** to avoid performance and security issues.  
-✔️ **Database assets have the highest purchase costs**, impacting overall IT expenses.  
-✔️ **Pivot tables & charts help visualize compliance trends & vendor spending.**  
+### Conclusion  
 
-🚀 This project successfully **demonstrates Excel skills in IT asset management** – including **data cleaning, formulas, pivot tables, and visualization**.
+This project successfully demonstrates **IT Asset Management using Excel**, showcasing:  
+✔️ **Data Cleaning & Transformation** – Ensuring data integrity  
+✔️ **Formula-Based Analysis** – Using Excel functions to extract insights  
+✔️ **Data Visualization** – Creating pivot tables & charts for cost & compliance tracking  
+
+---
+
+### ⚠️ Limitations  
+
+🔹 **Simulated Data** – Since the dataset is randomly generated, it does not reflect **real-world business challenges**.  
+🔹 **Lack of Real Trends** – No seasonality, vendor-specific pricing, or market fluctuations.  
+ 
+
+---
+
+### Future Improvements  
+
+✔️ **Develop an Interactive Dashboard** – Use **Power BI** or **Tableau** to improve visual analysis.  
+✔️ **Use Real-World Data** – Incorporate actual IT asset data for realistic insights.  
+✔️ **Expand Analysis** – Add **asset depreciation calculations** and **lifecycle forecasting**.  
+✔️ **Automate Reporting** – Use **Python or VBA** to generate reports dynamically.  
+✔️ **Integrate Cost Optimization** – Identify cost-saving opportunities in IT asset management.  
+
 
 ---
 
